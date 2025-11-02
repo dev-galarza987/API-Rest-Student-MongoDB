@@ -18,5 +18,7 @@
         "titleBar.inactiveBackground": "#2381d999",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "2381D9"
+    "peacock.color": "2381D9",
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2
 }
